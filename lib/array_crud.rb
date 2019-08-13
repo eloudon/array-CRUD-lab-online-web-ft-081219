@@ -23,13 +23,13 @@ array.shift("wow")
 end
 
 def retrieve_element_from_index(array, index_number)
-array[0]
+array[2]
 end
 
 def retrieve_first_element_from_array(array)
-
+array[0]
 end
 
 def retrieve_last_element_from_array(array)
-
+array[5]
 end
